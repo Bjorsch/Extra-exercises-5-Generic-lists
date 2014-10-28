@@ -12,7 +12,7 @@ namespace __Extra_exercises_5___Generic_lists
         {
             Filter filter = new Filter();
 
-            var nums1 = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10  };
+            var nums1 = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10  }; //Här är våra siffror
             var nums2 = new List<int> { 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 };
 
             /*List<int> resultat = filter.GetNumbersBeetween5and10(nums1);
